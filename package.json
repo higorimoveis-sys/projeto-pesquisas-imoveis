@@ -1,0 +1,11 @@
+{
+  "name": "projeto-pesquisas-imoveis",
+  "version": "1.0.0",
+  "description": "Sistema para pesquisa e captação de imóveis",
+  "main": "src/imovel.js",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "keywords": ["imoveis", "captacao", "pesquisa"],
+  "license": "ISC"
+}
